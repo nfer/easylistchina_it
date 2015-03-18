@@ -1,0 +1,44 @@
+[Adblock Plus 2.0]
+! Checksum: fDDkGZOyYwih0vohiUfy2Q
+! [www.baidu.com]
+baidu.com##img.j_user_sign
+baidu.com##div.d_sign_split
+baidu.com##div.right_section
+baidu.com##ul.tieba_notice
+baidu.com##div#con-ar
+! [bbs.csdn.net]
+csdn.net##div#tag-suggest-pop
+csdn.net##div.tracking-ad
+csdn.net##div#job_blog_reco
+csdn.net##iframe#frm_tt1
+csdn.net##iframe#tad2
+csdn.net##div#topic-extra-info
+! [163.com]
+||lofter.com^
+blog.163.com##div.g-rsidebar
+blog.163.com##div#blog-163-com-layer
+||imgsize.ph.126.net^
+! [oschina.net]
+oschina.net##div#RelativeBlogs
+! [coding.net]
+coding.net##div.bubble-item
+! [cppblog.com]
+||cppblog.com/script/ShowHidden.js
+||cppblog.com/WebResource.axd?*
+||cppblog.com/ScriptResource.axd?*
+||cppblog.com/Skins/*
+||cppblog.com/css/common.css
+cppblog.com##div#AjaxHolder_UpdatePanel1
+cppblog.com##div#header
+cppblog.com##div#mytopmenu
+cppblog.com##div#rightmenu
+cppblog.com##div#rigthtag
+cppblog.com##div.footer
+cppblog.com##div.postDesc
+cppblog.com##p#footer
+cppblog.com##p#tagline
+cppblog.com##p.postfoot
+! [common]
+@@||userstyles.org^$document
+||google-analytics.com^
+||googletagservices.com^
